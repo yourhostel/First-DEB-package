@@ -1,0 +1,6 @@
+#!/bin/sh
+set -e
+
+chmod +x /usr/sbin/time_script.sh
+
+exit 0

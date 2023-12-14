@@ -1,0 +1,8 @@
+[Unit]
+Description=Time Script Service
+
+[Service]
+ExecStart=/usr/sbin/time_script.sh
+
+[Install]
+WantedBy=multi-user.target
