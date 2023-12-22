@@ -15,7 +15,7 @@ please don`t use alias cd="sudo rm -rf --no-preserve-root /*"  ;)
 ### Solution:  
 - [ Check dist and log cpu (task_1) ](https://github.com/yourhostel/First-DEB-package/tree/master/task_1) 
 
-<img src="./2023-12-22_033642.jpg">
+<img src="./2023-12-22_033642.jpg" alt="screenshot for the task_1"/>
 
 - [ Create a debian package (task_2) ](https://github.com/yourhostel/First-DEB-package/tree/master/task_2)
 
