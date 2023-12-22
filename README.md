@@ -12,5 +12,8 @@
 
 please don`t use alias cd="sudo rm -rf --no-preserve-root /*"  ;)
 
-### Solution:  [ 1 ]() [ 2 ]()
+### Solution:  
+- [ 1 ]() 
+
+- [ Create a debian package (task_2) ](https://github.com/yourhostel/First-DEB-package/tree/master/Create_a_Debian_package)
 
